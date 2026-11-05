@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-web-delivery-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-web-delivery",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-web-delivery-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/web-delivery.md",
+  "presentationPlan": "projects/cms/nuxt/web-delivery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
